@@ -1,0 +1,9 @@
+call center cartoon - https://www.tmcnet.com/channels/call-center-scheduling/articles/441000-inflexible-call-center-schedules-doomed-call-center-schedules.htm
+
+fake call center - https://medium.com/@albertjones55/running-a-call-center-why-outfitting-your-agents-with-proper-call-center-headsets-is-essential-eef6cc43a36
+
+https://www.ideals.news/Meta-Leadership-Primer-Sentiment-Analysis_a1657.html
+
+# Each word in the lexicon has scores for:
+# 1)     polarity: negative vs. positive    (-1.0 => +1.0)
+# 2) subjectivity: objective vs. subjective (+0.0 => +1.0)
